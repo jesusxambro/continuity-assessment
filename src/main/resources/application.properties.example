@@ -1,0 +1,6 @@
+
+spring.datasource.url=jdbc:postgresql://localhost/continuity?serverTimezone=UTC
+spring.datasource.username=postgres
+spring.datasource.password=******* FILLIN
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.hibernate.ddl-auto=update
